@@ -2980,13 +2980,9 @@ input, select, textarea {
 					right: 0;
 				}
 
-		@media screen and (max-width: 980px) {
 
-			header br {
-				display: none;
-			}
 
-		}
+		
 
 		@media screen and (max-width: 736px) {
 
@@ -3456,9 +3452,7 @@ input, select, textarea {
 				min-height: 90vh;
 			}
 
-				#intro p br {
-					display: none;
-				}
+
 
 				#intro + #header {
 					margin-top: -14rem;
